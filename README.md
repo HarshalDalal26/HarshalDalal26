@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshalDalal26
-- 👀 I’m interested in learning and woking in new technology.
-- 🌱 I’m currently learning react js and android development.
-- 💞️ I’m looking to collaborate on developing android/web frontend.
+- 👀 I’m interested in learning and working with new technology.
+- 🌱 I’m s full stack and an android developer.
+- 💞️ I’m looking to collaborate on developing android/web.
 - 📫 I'm available at harshalsd11@gmail.com
 
 <!---
